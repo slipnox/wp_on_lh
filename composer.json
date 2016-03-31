@@ -29,6 +29,7 @@
       "rm -rf wp_assets/wp-content/themes/twentytwelve",
       "rm -rf wp_assets/wp-content/themes/twentythirteen",
       "rm -rf wp_assets/wp-content/themes/twentyfourteen",
+      "git checkout master",
       "git add .",
       "git commit -m 'wordpress ready to install and develop'"
     ]
