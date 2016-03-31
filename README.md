@@ -1,3 +1,3 @@
-## WP on LH Project
+## WPonLH [Wordpress on Laravel Homestead]
 
 - Staring project
