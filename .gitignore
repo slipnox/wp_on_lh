@@ -1,0 +1,18 @@
+#ignored ide and project files
+.idea
+vendor
+
+# ignored wp core files
+wp_assets/*
+!wp_assets/wp-content
+
+#wordpress config file
+!wp_assets/wp-config.php
+
+# ignored plugins and themes antihacking files files
+/wp_assets/wp-content/plugins/index.php
+/wp_assets/wp-content/themes/index.php
+/wp_assets/wp-content/index.php
+/wp_assets/wp-content/plugins/hello.php
+
+
